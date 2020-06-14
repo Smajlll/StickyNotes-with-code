@@ -1,0 +1,13 @@
+C:\Users\Vitek\source\repos\StickyNotes\StickyNotes\bin\Debug\StickyNotes.exe.config
+C:\Users\Vitek\source\repos\StickyNotes\StickyNotes\bin\Debug\StickyNotes.exe
+C:\Users\Vitek\source\repos\StickyNotes\StickyNotes\bin\Debug\StickyNotes.pdb
+C:\Users\Vitek\source\repos\StickyNotes\StickyNotes\obj\Debug\StickyNotes.csprojAssemblyReference.cache
+C:\Users\Vitek\source\repos\StickyNotes\StickyNotes\obj\Debug\StickyNotes.Form1.resources
+C:\Users\Vitek\source\repos\StickyNotes\StickyNotes\obj\Debug\StickyNotes.Properties.Resources.resources
+C:\Users\Vitek\source\repos\StickyNotes\StickyNotes\obj\Debug\StickyNotes.csproj.GenerateResource.cache
+C:\Users\Vitek\source\repos\StickyNotes\StickyNotes\obj\Debug\StickyNotes.csproj.CoreCompileInputs.cache
+C:\Users\Vitek\source\repos\StickyNotes\StickyNotes\obj\Debug\StickyNotes.exe
+C:\Users\Vitek\source\repos\StickyNotes\StickyNotes\obj\Debug\StickyNotes.pdb
+C:\Users\Vitek\source\repos\StickyNotes\StickyNotes\obj\Debug\StickyNotes.Form2.resources
+C:\Users\Vitek\source\repos\StickyNotes\StickyNotes\obj\Debug\StickyNotes.AboutBox1.resources
+C:\Users\Vitek\source\repos\StickyNotes\StickyNotes\obj\Debug\StickyNotes.Form3.resources
