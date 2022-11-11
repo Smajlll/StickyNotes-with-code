@@ -1,5 +1,5 @@
 # StickyNotes-with-code
-Jeden z mých prvních projektů, podařilo se mi ho archivovat v roce 2020, byl programován nejspíše kolem konce roku 2016, nebo kolem půlky roku 2017, nejsem si jist. Mám ho zde na Githubu jako takovou vzpomínku, když jsem začínal programovat. Tento projekt je naprogramován v C++ za použití Windows Forms a Visual Studia.
+Jeden z mých prvních projektů, podařilo se mi ho archivovat v roce 2020, byl programován nejspíše kolem konce roku 2016, nebo kolem půlky roku 2017, nejsem si jist. Mám ho zde na Githubu jako takovou vzpomínku, když jsem začínal programovat. Tento projekt je naprogramován v C# za použití Windows Forms a Visual Studia.
 # Kde jsem ho našel?
 Tento projekt jsem našel na svém starém externím disku, který jsem našel zahrabaný pod mou postelí,a kromě pár osobních dat, jsem na tomto disku našel i tento projekt, který zázračně nebyl poškozen. 
 # Proč je tak divně uspořádán? A proč tento repositář nepoužívá klasický Git Version Control?
