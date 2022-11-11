@@ -9,3 +9,5 @@ Pokud nějaké najdu na starých discích, nebo se k nim dostanu od kamarádů a
 # Můžu tento kód používat?
 Ano, tento kód si může vzít kdokoliv narazí na tento repositář, ale nedoporučoval bych to, tento kód je tak hrozný, že se za něj stydím do teď :D.
 
+Tento repositář byl archivován 11.11.2022 v 11:11.
+
